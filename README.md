@@ -51,10 +51,15 @@ This repository contains code of my leetcode problem solved.
 ## Linked List
 |  |
 | ------- |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/VighneshSankpal/Leetcode-Submissions/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/VighneshSankpal/Leetcode-Submissions/tree/master/0114-flatten-binary-tree-to-linked-list) |
 ## Stack
 |  |
 | ------- |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/VighneshSankpal/Leetcode-Submissions/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0144-binary-tree-preorder-traversal](https://github.com/VighneshSankpal/Leetcode-Submissions/tree/master/0144-binary-tree-preorder-traversal) |
+## Two Pointers
+|  |
+| ------- |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/VighneshSankpal/Leetcode-Submissions/tree/master/0019-remove-nth-node-from-end-of-list) |
 <!---LeetCode Topics End-->
