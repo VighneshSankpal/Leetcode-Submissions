@@ -62,4 +62,8 @@ This repository contains code of my leetcode problem solved.
 |  |
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/VighneshSankpal/Leetcode-Submissions/tree/master/0019-remove-nth-node-from-end-of-list) |
+## Math
+|  |
+| ------- |
+| [0009-palindrome-number](https://github.com/VighneshSankpal/Leetcode-Submissions/tree/master/0009-palindrome-number) |
 <!---LeetCode Topics End-->
