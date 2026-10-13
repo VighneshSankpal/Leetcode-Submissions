@@ -14,19 +14,19 @@ class Solution:
                 return 0
             
                 
-            is_goodnode = False
+            is_goodnode = 0
 
             
             if node.val >= max_num:
                 max_num = node.val
-                is_goodnode= True
+                is_goodnode= 1
 
 
             left_node = get_goodnodes(node.left,max_num)
             right_node = get_goodnodes(node.right,max_num)
         
             
-            return  left_node+right_node+1 if is_goodnode else left_node+right_node
+            return  is_goodnode + left_node+right_node
         
         return get_goodnodes(root,root.val)
                 
