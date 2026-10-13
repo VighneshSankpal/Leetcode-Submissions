@@ -29,6 +29,7 @@ This repository contains code of my leetcode problem solved.
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/VighneshSankpal/Leetcode-Submissions/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0144-binary-tree-preorder-traversal](https://github.com/VighneshSankpal/Leetcode-Submissions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/VighneshSankpal/Leetcode-Submissions/tree/master/0637-average-of-levels-in-binary-tree) |
+| [1448-count-good-nodes-in-binary-tree](https://github.com/VighneshSankpal/Leetcode-Submissions/tree/master/1448-count-good-nodes-in-binary-tree) |
 ## Binary Tree
 |  |
 | ------- |
@@ -39,6 +40,7 @@ This repository contains code of my leetcode problem solved.
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/VighneshSankpal/Leetcode-Submissions/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0144-binary-tree-preorder-traversal](https://github.com/VighneshSankpal/Leetcode-Submissions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/VighneshSankpal/Leetcode-Submissions/tree/master/0637-average-of-levels-in-binary-tree) |
+| [1448-count-good-nodes-in-binary-tree](https://github.com/VighneshSankpal/Leetcode-Submissions/tree/master/1448-count-good-nodes-in-binary-tree) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -47,6 +49,7 @@ This repository contains code of my leetcode problem solved.
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/VighneshSankpal/Leetcode-Submissions/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0144-binary-tree-preorder-traversal](https://github.com/VighneshSankpal/Leetcode-Submissions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/VighneshSankpal/Leetcode-Submissions/tree/master/0637-average-of-levels-in-binary-tree) |
+| [1448-count-good-nodes-in-binary-tree](https://github.com/VighneshSankpal/Leetcode-Submissions/tree/master/1448-count-good-nodes-in-binary-tree) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -73,4 +76,5 @@ This repository contains code of my leetcode problem solved.
 |  |
 | ------- |
 | [0637-average-of-levels-in-binary-tree](https://github.com/VighneshSankpal/Leetcode-Submissions/tree/master/0637-average-of-levels-in-binary-tree) |
+| [1448-count-good-nodes-in-binary-tree](https://github.com/VighneshSankpal/Leetcode-Submissions/tree/master/1448-count-good-nodes-in-binary-tree) |
 <!---LeetCode Topics End-->
