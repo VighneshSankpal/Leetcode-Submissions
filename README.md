@@ -15,6 +15,7 @@ This repository contains code of my leetcode problem solved.
 | ------- |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/VighneshSankpal/Leetcode-Submissions/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/VighneshSankpal/Leetcode-Submissions/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
+| [0242-valid-anagram](https://github.com/VighneshSankpal/Leetcode-Submissions/tree/master/0242-valid-anagram) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -79,4 +80,12 @@ This repository contains code of my leetcode problem solved.
 | ------- |
 | [0637-average-of-levels-in-binary-tree](https://github.com/VighneshSankpal/Leetcode-Submissions/tree/master/0637-average-of-levels-in-binary-tree) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/VighneshSankpal/Leetcode-Submissions/tree/master/1448-count-good-nodes-in-binary-tree) |
+## String
+|  |
+| ------- |
+| [0242-valid-anagram](https://github.com/VighneshSankpal/Leetcode-Submissions/tree/master/0242-valid-anagram) |
+## Sorting
+|  |
+| ------- |
+| [0242-valid-anagram](https://github.com/VighneshSankpal/Leetcode-Submissions/tree/master/0242-valid-anagram) |
 <!---LeetCode Topics End-->
