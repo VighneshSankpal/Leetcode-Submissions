@@ -28,6 +28,7 @@ This repository contains code of my leetcode problem solved.
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/VighneshSankpal/Leetcode-Submissions/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/VighneshSankpal/Leetcode-Submissions/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0110-balanced-binary-tree](https://github.com/VighneshSankpal/Leetcode-Submissions/tree/master/0110-balanced-binary-tree) |
+| [0112-path-sum](https://github.com/VighneshSankpal/Leetcode-Submissions/tree/master/0112-path-sum) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/VighneshSankpal/Leetcode-Submissions/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0144-binary-tree-preorder-traversal](https://github.com/VighneshSankpal/Leetcode-Submissions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/VighneshSankpal/Leetcode-Submissions/tree/master/0637-average-of-levels-in-binary-tree) |
@@ -39,6 +40,7 @@ This repository contains code of my leetcode problem solved.
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/VighneshSankpal/Leetcode-Submissions/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/VighneshSankpal/Leetcode-Submissions/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0110-balanced-binary-tree](https://github.com/VighneshSankpal/Leetcode-Submissions/tree/master/0110-balanced-binary-tree) |
+| [0112-path-sum](https://github.com/VighneshSankpal/Leetcode-Submissions/tree/master/0112-path-sum) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/VighneshSankpal/Leetcode-Submissions/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0144-binary-tree-preorder-traversal](https://github.com/VighneshSankpal/Leetcode-Submissions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/VighneshSankpal/Leetcode-Submissions/tree/master/0637-average-of-levels-in-binary-tree) |
@@ -48,6 +50,7 @@ This repository contains code of my leetcode problem solved.
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/VighneshSankpal/Leetcode-Submissions/tree/master/0098-validate-binary-search-tree) |
 | [0110-balanced-binary-tree](https://github.com/VighneshSankpal/Leetcode-Submissions/tree/master/0110-balanced-binary-tree) |
+| [0112-path-sum](https://github.com/VighneshSankpal/Leetcode-Submissions/tree/master/0112-path-sum) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/VighneshSankpal/Leetcode-Submissions/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0144-binary-tree-preorder-traversal](https://github.com/VighneshSankpal/Leetcode-Submissions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/VighneshSankpal/Leetcode-Submissions/tree/master/0637-average-of-levels-in-binary-tree) |
@@ -78,6 +81,7 @@ This repository contains code of my leetcode problem solved.
 ## Breadth-First Search
 |  |
 | ------- |
+| [0112-path-sum](https://github.com/VighneshSankpal/Leetcode-Submissions/tree/master/0112-path-sum) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/VighneshSankpal/Leetcode-Submissions/tree/master/0637-average-of-levels-in-binary-tree) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/VighneshSankpal/Leetcode-Submissions/tree/master/1448-count-good-nodes-in-binary-tree) |
 ## String
