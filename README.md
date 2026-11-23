@@ -30,6 +30,7 @@ This repository contains code of my leetcode problem solved.
 | [0110-balanced-binary-tree](https://github.com/VighneshSankpal/Leetcode-Submissions/tree/master/0110-balanced-binary-tree) |
 | [0112-path-sum](https://github.com/VighneshSankpal/Leetcode-Submissions/tree/master/0112-path-sum) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/VighneshSankpal/Leetcode-Submissions/tree/master/0114-flatten-binary-tree-to-linked-list) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/VighneshSankpal/Leetcode-Submissions/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/VighneshSankpal/Leetcode-Submissions/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0144-binary-tree-preorder-traversal](https://github.com/VighneshSankpal/Leetcode-Submissions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/VighneshSankpal/Leetcode-Submissions/tree/master/0637-average-of-levels-in-binary-tree) |
@@ -43,6 +44,7 @@ This repository contains code of my leetcode problem solved.
 | [0110-balanced-binary-tree](https://github.com/VighneshSankpal/Leetcode-Submissions/tree/master/0110-balanced-binary-tree) |
 | [0112-path-sum](https://github.com/VighneshSankpal/Leetcode-Submissions/tree/master/0112-path-sum) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/VighneshSankpal/Leetcode-Submissions/tree/master/0114-flatten-binary-tree-to-linked-list) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/VighneshSankpal/Leetcode-Submissions/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/VighneshSankpal/Leetcode-Submissions/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0144-binary-tree-preorder-traversal](https://github.com/VighneshSankpal/Leetcode-Submissions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/VighneshSankpal/Leetcode-Submissions/tree/master/0637-average-of-levels-in-binary-tree) |
@@ -54,6 +56,7 @@ This repository contains code of my leetcode problem solved.
 | [0110-balanced-binary-tree](https://github.com/VighneshSankpal/Leetcode-Submissions/tree/master/0110-balanced-binary-tree) |
 | [0112-path-sum](https://github.com/VighneshSankpal/Leetcode-Submissions/tree/master/0112-path-sum) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/VighneshSankpal/Leetcode-Submissions/tree/master/0114-flatten-binary-tree-to-linked-list) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/VighneshSankpal/Leetcode-Submissions/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/VighneshSankpal/Leetcode-Submissions/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0144-binary-tree-preorder-traversal](https://github.com/VighneshSankpal/Leetcode-Submissions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/VighneshSankpal/Leetcode-Submissions/tree/master/0637-average-of-levels-in-binary-tree) |
@@ -95,4 +98,12 @@ This repository contains code of my leetcode problem solved.
 |  |
 | ------- |
 | [0242-valid-anagram](https://github.com/VighneshSankpal/Leetcode-Submissions/tree/master/0242-valid-anagram) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0124-binary-tree-maximum-path-sum](https://github.com/VighneshSankpal/Leetcode-Submissions/tree/master/0124-binary-tree-maximum-path-sum) |
+## DP on Trees
+|  |
+| ------- |
+| [0124-binary-tree-maximum-path-sum](https://github.com/VighneshSankpal/Leetcode-Submissions/tree/master/0124-binary-tree-maximum-path-sum) |
 <!---LeetCode Topics End-->
