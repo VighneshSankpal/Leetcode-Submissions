@@ -84,6 +84,7 @@ This repository contains code of my leetcode problem solved.
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/VighneshSankpal/Leetcode-Submissions/tree/master/0009-palindrome-number) |
+| [0050-powx-n](https://github.com/VighneshSankpal/Leetcode-Submissions/tree/master/0050-powx-n) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -106,4 +107,8 @@ This repository contains code of my leetcode problem solved.
 |  |
 | ------- |
 | [0124-binary-tree-maximum-path-sum](https://github.com/VighneshSankpal/Leetcode-Submissions/tree/master/0124-binary-tree-maximum-path-sum) |
+## Recursion
+|  |
+| ------- |
+| [0050-powx-n](https://github.com/VighneshSankpal/Leetcode-Submissions/tree/master/0050-powx-n) |
 <!---LeetCode Topics End-->
