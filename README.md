@@ -10,6 +10,7 @@ This repository contains code of my leetcode problem solved.
 | [0027-remove-element](https://github.com/VighneshSankpal/Leetcode-Submissions/tree/master/0027-remove-element) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/VighneshSankpal/Leetcode-Submissions/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/VighneshSankpal/Leetcode-Submissions/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
+| [0283-move-zeroes](https://github.com/VighneshSankpal/Leetcode-Submissions/tree/master/0283-move-zeroes) |
 ## Hash Table
 |  |
 | ------- |
@@ -80,6 +81,7 @@ This repository contains code of my leetcode problem solved.
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/VighneshSankpal/Leetcode-Submissions/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0027-remove-element](https://github.com/VighneshSankpal/Leetcode-Submissions/tree/master/0027-remove-element) |
+| [0283-move-zeroes](https://github.com/VighneshSankpal/Leetcode-Submissions/tree/master/0283-move-zeroes) |
 ## Math
 |  |
 | ------- |
