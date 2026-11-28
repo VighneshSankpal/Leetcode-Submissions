@@ -80,6 +80,7 @@ This repository contains code of my leetcode problem solved.
 | ------- |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/VighneshSankpal/Leetcode-Submissions/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0144-binary-tree-preorder-traversal](https://github.com/VighneshSankpal/Leetcode-Submissions/tree/master/0144-binary-tree-preorder-traversal) |
+| [0232-implement-queue-using-stacks](https://github.com/VighneshSankpal/Leetcode-Submissions/tree/master/0232-implement-queue-using-stacks) |
 ## Two Pointers
 |  |
 | ------- |
@@ -130,4 +131,12 @@ This repository contains code of my leetcode problem solved.
 |  |
 | ------- |
 | [0142-linked-list-cycle-ii](https://github.com/VighneshSankpal/Leetcode-Submissions/tree/master/0142-linked-list-cycle-ii) |
+## Design
+|  |
+| ------- |
+| [0232-implement-queue-using-stacks](https://github.com/VighneshSankpal/Leetcode-Submissions/tree/master/0232-implement-queue-using-stacks) |
+## Queue
+|  |
+| ------- |
+| [0232-implement-queue-using-stacks](https://github.com/VighneshSankpal/Leetcode-Submissions/tree/master/0232-implement-queue-using-stacks) |
 <!---LeetCode Topics End-->
